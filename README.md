@@ -1,2 +1,2 @@
-# Telegram-ChatGPT-Bot
-A simple CHATGPT BOT for telegram
+# Telegram-Chat-Bot
+A simple CHAT BOT for telegram
